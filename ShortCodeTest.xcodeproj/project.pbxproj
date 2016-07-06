@@ -489,6 +489,7 @@
 				00CBBFA11D2C69E000EC799C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		00CBBFA21D2C69E000EC799C /* Build configuration list for PBXNativeTarget "ShortCodeTestTests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +498,7 @@
 				00CBBFA41D2C69E000EC799C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		00CBBFA51D2C69E000EC799C /* Build configuration list for PBXNativeTarget "ShortCodeTestUITests" */ = {
 			isa = XCConfigurationList;
@@ -505,6 +507,7 @@
 				00CBBFA71D2C69E000EC799C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
