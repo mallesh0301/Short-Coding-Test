@@ -32,7 +32,7 @@ class ViewController: UIViewController, NSFetchedResultsControllerDelegate, UITa
             else {
                 if let urlContent = data {
                     do {
-                        // getting the data from the url
+                        // getting the data from the url fjg
                         let jsonArr = try NSJSONSerialization.JSONObjectWithData(urlContent, options: NSJSONReadingOptions.MutableContainers) as! NSArray
                         
                         // if the url is not empty
@@ -56,9 +56,6 @@ class ViewController: UIViewController, NSFetchedResultsControllerDelegate, UITa
                                     
                                     // add the values to the attributes
                                     
-                                    print("fname \(fname)")
-                                    print("lname \(lname)")
-                                    print("city \(city)")
                                     newPost.setValue(fname, forKey: "fname")
                                     newPost.setValue(lname, forKey: "lname")
                                     newPost.setValue(city, forKey: "city")
