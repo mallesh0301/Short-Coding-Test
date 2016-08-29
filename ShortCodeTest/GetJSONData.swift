@@ -32,7 +32,7 @@ class GetJSONData: NSObject {
                         // if the url is not empty
                         if jsonArr.count > 0 {
                             for i in 0..<jsonArr.count {
-                                
+                        
                                 // get the array data into the dictionaries
                                 if let jsonDic = jsonArr.objectAtIndex(i) as? NSDictionary {
                                     

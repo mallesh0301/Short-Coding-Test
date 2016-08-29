@@ -42,6 +42,5 @@ class UserInterfaceViewController: UIViewController {
             getData.num = input!
         }
     }
-
     
 }
