@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00C225671D7406B4008FE56C /* GetJSONData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00C225661D7406B4008FE56C /* GetJSONData.swift */; };
 		00C225691D7407F5008FE56C /* UserInterfaceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00C225681D7407F5008FE56C /* UserInterfaceViewController.swift */; };
+		00C2256D1D740C57008FE56C /* GetJSONData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00C2256C1D740C57008FE56C /* GetJSONData.swift */; };
 		00CBBF781D2C69E000EC799C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00CBBF771D2C69E000EC799C /* AppDelegate.swift */; };
 		00CBBF7A1D2C69E000EC799C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00CBBF791D2C69E000EC799C /* ViewController.swift */; };
 		00CBBF7D1D2C69E000EC799C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00CBBF7B1D2C69E000EC799C /* Main.storyboard */; };
@@ -37,8 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00C225661D7406B4008FE56C /* GetJSONData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetJSONData.swift; sourceTree = "<group>"; };
 		00C225681D7407F5008FE56C /* UserInterfaceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserInterfaceViewController.swift; sourceTree = "<group>"; };
+		00C2256C1D740C57008FE56C /* GetJSONData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetJSONData.swift; sourceTree = "<group>"; };
 		00CBBF741D2C69E000EC799C /* ShortCodeTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShortCodeTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		00CBBF771D2C69E000EC799C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		00CBBF791D2C69E000EC799C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -110,8 +110,8 @@
 				00CBBF831D2C69E000EC799C /* LaunchScreen.storyboard */,
 				00CBBF861D2C69E000EC799C /* Info.plist */,
 				00CBBF7E1D2C69E000EC799C /* ShortCodeTest.xcdatamodeld */,
-				00C225661D7406B4008FE56C /* GetJSONData.swift */,
 				00C225681D7407F5008FE56C /* UserInterfaceViewController.swift */,
+				00C2256C1D740C57008FE56C /* GetJSONData.swift */,
 			);
 			path = ShortCodeTest;
 			sourceTree = "<group>";
@@ -268,8 +268,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00C225671D7406B4008FE56C /* GetJSONData.swift in Sources */,
 				00CBBF801D2C69E000EC799C /* ShortCodeTest.xcdatamodeld in Sources */,
+				00C2256D1D740C57008FE56C /* GetJSONData.swift in Sources */,
 				00CBBF7A1D2C69E000EC799C /* ViewController.swift in Sources */,
 				00C225691D7407F5008FE56C /* UserInterfaceViewController.swift in Sources */,
 				00CBBF781D2C69E000EC799C /* AppDelegate.swift in Sources */,
